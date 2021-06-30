@@ -1,4 +1,4 @@
-ROM python:3.8
+FROM python:3.8
 LABEL maintainer="Allan Patrick"
 
 COPY . /app
